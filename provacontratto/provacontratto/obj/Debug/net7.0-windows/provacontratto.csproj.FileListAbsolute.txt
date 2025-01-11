@@ -1,0 +1,16 @@
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\obj\Debug\net7.0-windows\provacontratto.csproj.GenerateResource.cache
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\obj\Debug\net7.0-windows\provacontratto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\obj\Debug\net7.0-windows\provacontratto.AssemblyInfoInputs.cache
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\obj\Debug\net7.0-windows\provacontratto.AssemblyInfo.cs
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\obj\Debug\net7.0-windows\provacontratto.csproj.CoreCompileInputs.cache
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\bin\Debug\net7.0-windows\provacontratto.exe
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\bin\Debug\net7.0-windows\provacontratto.deps.json
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\bin\Debug\net7.0-windows\provacontratto.runtimeconfig.json
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\bin\Debug\net7.0-windows\provacontratto.dll
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\bin\Debug\net7.0-windows\provacontratto.pdb
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\obj\Debug\net7.0-windows\provacontratto.Contratto.resources
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\obj\Debug\net7.0-windows\provacontratto.dll
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\obj\Debug\net7.0-windows\refint\provacontratto.dll
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\obj\Debug\net7.0-windows\provacontratto.pdb
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\obj\Debug\net7.0-windows\provacontratto.genruntimeconfig.cache
+C:\Users\salvi.21205\Desktop\provacontratto\provacontratto\obj\Debug\net7.0-windows\ref\provacontratto.dll
